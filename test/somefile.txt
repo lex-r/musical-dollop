@@ -1,0 +1,6 @@
+file for test
+some text
+
+
+magic number 3908981231
+

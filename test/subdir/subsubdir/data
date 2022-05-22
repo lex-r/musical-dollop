@@ -1,0 +1,15 @@
+➜  test git:(main) ✗ mkdir subdir
+➜  test git:(main) ✗ cd subdir 
+➜  subdir git:(main) ✗ ls
+➜  subdir git:(main) ✗ mkdir subsubdir
+➜  subdir git:(main) ✗ cd subsubdir 
+➜  subsubdir git:(main) ✗ ls
+➜  subsubdir git:(main) ✗ mkdir end
+➜  subsubdir git:(main) ✗ cd end 
+➜  end git:(main) ✗ vim .
+➜  end git:(main) ✗ touch .gitkeep
+➜  end git:(main) ✗ ls
+➜  end git:(main) ✗ cd ..
+➜  subsubdir git:(main) ✗ ls
+end
+
